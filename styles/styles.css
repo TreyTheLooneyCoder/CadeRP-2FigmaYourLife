@@ -1,0 +1,50 @@
+body {
+  background-image: url(/assets/BackgroudDarkSubway.webp);
+  background-size: cover;
+}
+
+.makeMePinkish {
+  background-color: rgb(147, 94, 163) !important;
+}
+
+h1 {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  font-size: 100px;
+}
+
+h2 {
+  color: white;
+}
+
+hr {
+  color: white !important;
+}
+
+h5 {
+  color: white;
+}
+
+.imgsOffCanvas {
+  width: 370px;
+}
+
+#opening {
+  color: white;
+}
+
+#favPastimes {
+  color: white;
+}
+
+#pictures {
+  width: auto;
+}
+
+#explanation {
+  color: white;
+}
